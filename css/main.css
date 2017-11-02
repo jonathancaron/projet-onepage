@@ -662,3 +662,9 @@ padding:15px 30px 15px 30px;
 .modal-ku{
 	width: 500px;
 }
+#boxeOne{
+	background-image: url("../images/back.gif");
+	background-size: cover;
+	min-height: 500px;
+	background-position: center;
+}
