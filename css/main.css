@@ -46,7 +46,7 @@ h5 {
 	font-weight: 700;
 }
 .btn {
-	background-color: #3bc492;
+	background-color: #bc6043;
 	color: #fff;
 	font-size: 13px;
 	font-weight: 600;
@@ -340,7 +340,7 @@ ul li {
 	$intro
 ========================================================================== */
 .intro {
-	background-color: #00aeda;
+	background-color: #e0805e;
 }
 .intro h3 {
 	color: #fff;
@@ -504,7 +504,7 @@ ul li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	background-color: #00aeda;
+	background-color: #e0805e;
 	position: relative;
 	text-align: center;
 }
@@ -625,7 +625,7 @@ padding:15px 30px 15px 30px;
 	padding: 20px 0;
 }
 .footer .footer-col {
-	margin-bottom: 80px;
+	margin-bottom: 10px;
 }
 .footer h5 {
 	color: #fff;
